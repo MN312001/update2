@@ -1,6 +1,6 @@
 ☰ New update.
 
-⦿ Official update: 37.2.5-Fix
+⦿ Official update: 37.5.22
 
 ❏ Changes in the application: ↓
 
