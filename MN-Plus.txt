@@ -1,6 +1,6 @@
 ☰ New update.
 
-⦿ Official update: 11.5.3.0-Fixed
+⦿ Official update: 11.5.3.0
 
 ❏ Changes in the application: ↓
 
